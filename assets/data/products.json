@@ -1,0 +1,16 @@
+{
+  "products": [
+    { "id": "p001", "name": "Classic Oxford Shirt", "subtitle": "Slim-fit cotton oxford in sky blue", "price": 1499, "category": "Shirts", "image_url": "https://picsum.photos/seed/threadline-p001/600/750" },
+    { "id": "p002", "name": "Everyday Crew Tee", "subtitle": "Organic cotton, relaxed fit, white", "price": 599, "category": "T-Shirts", "image_url": "https://picsum.photos/seed/threadline-p002/600/750" },
+    { "id": "p003", "name": "Slim Stretch Chinos", "subtitle": "Khaki chinos with a touch of stretch", "price": 1799, "category": "Trousers", "image_url": "https://picsum.photos/seed/threadline-p003/600/750" },
+    { "id": "p004", "name": "Denim Trucker Jacket", "subtitle": "Mid-wash denim, classic fit", "price": 2999, "category": "Jackets", "image_url": "https://picsum.photos/seed/threadline-p004/600/750" },
+    { "id": "p005", "name": "Linen Summer Dress", "subtitle": "Breathable midi dress in sage", "price": 2499, "category": "Dresses", "image_url": "https://picsum.photos/seed/threadline-p005/600/750" },
+    { "id": "p006", "name": "Merino Crew Sweater", "subtitle": "Lightweight merino wool, navy", "price": 3299, "category": "Knitwear", "image_url": "https://picsum.photos/seed/threadline-p006/600/750" },
+    { "id": "p007", "name": "Floral Wrap Top", "subtitle": "Viscose wrap top with tie waist", "price": 1199, "category": "Tops", "image_url": "https://picsum.photos/seed/threadline-p007/600/750" },
+    { "id": "p008", "name": "High-Rise Mom Jeans", "subtitle": "Vintage wash with a tapered leg", "price": 2199, "category": "Jeans", "image_url": "https://picsum.photos/seed/threadline-p008/600/750" },
+    { "id": "p009", "name": "Quilted Puffer Vest", "subtitle": "Water-repellent, recycled fill", "price": 2799, "category": "Jackets", "image_url": "https://picsum.photos/seed/threadline-p009/600/750" },
+    { "id": "p010", "name": "Pleated Midi Skirt", "subtitle": "Satin-finish skirt in champagne", "price": 1899, "category": "Skirts", "image_url": "https://picsum.photos/seed/threadline-p010/600/750" },
+    { "id": "p011", "name": "Hooded Fleece Sweatshirt", "subtitle": "Brushed fleece, charcoal melange", "price": 1599, "category": "Sweatshirts", "image_url": "https://picsum.photos/seed/threadline-p011/600/750" },
+    { "id": "p012", "name": "Tailored Wool Blazer", "subtitle": "Single-breasted, charcoal grey", "price": 4999, "category": "Blazers", "image_url": "https://picsum.photos/seed/threadline-p012/600/750" }
+  ]
+}
