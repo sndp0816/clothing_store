@@ -15,7 +15,11 @@ It follows **Clean Architecture** with **BLoC (explicit Events & States)**, **de
 
 ## 📱 App Demo
 
-[![Watch the demo](assets/readme/thumbnail.png)](assets/readme/demo_video.mp4)
+## Demo
+
+🎥 [Watch demo video](https://drive.google.com/file/d/1ygeSkaAsWrYJJxKXLcofLfcnzHQSXI-W/view?usp=sharing)
+
+📥 [Download video](https://drive.google.com/uc?export=download&id=1ygeSkaAsWrYJJxKXLcofLfcnzHQSXI-W)
 
 ## ⬇️ Download the App
 
