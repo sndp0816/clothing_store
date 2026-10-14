@@ -15,11 +15,7 @@ It follows **Clean Architecture** with **BLoC (explicit Events & States)**, **de
 
 ## 📱 App Demo
 
-<p align="center">
-  <video src="assets/readme/sandeep_task.mp4" width="320" controls>
-    Your browser does not support video playback.
-  </video>
-</p>
+[![Watch the demo](assets/readme/thumbnail.png)](assets/readme/sandeep_task.mp4)
 
 ## ⬇️ Download the App
 
