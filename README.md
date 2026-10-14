@@ -15,7 +15,7 @@ It follows **Clean Architecture** with **BLoC (explicit Events & States)**, **de
 
 ## 📱 App Demo
 
-[![Watch the demo](assets/readme/thumbnail.png)](assets/readme/sandeep_task.mp4)
+[![Watch the demo](assets/readme/thumbnail.png)](assets/readme/demo_video.mp4)
 
 ## ⬇️ Download the App
 
@@ -31,7 +31,7 @@ It follows **Clean Architecture** with **BLoC (explicit Events & States)**, **de
 Requirements: Flutter 3.22+ (Dart 3.3+).
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/sndp0816/clothing_store
 cd clothing_store
 
 # Generate the platform folders (android/, ios/, web/...) if they are not in the repo.
